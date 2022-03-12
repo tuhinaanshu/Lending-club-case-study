@@ -40,7 +40,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@tuhinaanshu] - feel free to contact me!
 
 
 <!-- Optional -->
